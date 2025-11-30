@@ -2,6 +2,10 @@
 
 A modern, production-ready Kanban board built with Next.js, TypeScript, and Tailwind CSS, featuring full Storybook integration.
 
+## ScreenShot
+
+![image alt](https://github.com/Kashish-Surana/Kanban-Component/blob/915f4b8de10dc0fd54bbaa70c9075925de1fa3a8/ss.png)
+
 ## Features
 
 - **Drag & Drop**: Smooth task movement between columns using @hello-pangea/dnd
