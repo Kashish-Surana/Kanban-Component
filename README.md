@@ -35,30 +35,6 @@ npm run storybook
 
 Open [http://localhost:6006](http://localhost:6006) in your browser.
 
-## Project Structure
-
-\`\`\`
-├── app/
-│   ├── globals.css          # Global styles with design tokens
-│   ├── layout.tsx           # Root layout
-│   └── page.tsx             # Main Kanban board page
-├── components/
-│   └── KanbanBoard/
-│       ├── KanbanBoard.tsx  # Main board component
-│       ├── KanbanColumn.tsx # Column component
-│       ├── KanbanTask.tsx   # Task card component
-│       ├── TaskDialog.tsx   # Task creation/edit dialog
-│       └── index.ts         # Barrel exports
-├── lib/
-│   └── types.ts             # TypeScript type definitions
-├── stories/
-│   ├── KanbanBoard.stories.tsx
-│   ├── KanbanColumn.stories.tsx
-│   └── KanbanTask.stories.tsx
-└── .storybook/
-    ├── main.ts              # Storybook configuration
-    └── preview.ts           # Global story settings
-\`\`\`
 
 ## Component Architecture
 
